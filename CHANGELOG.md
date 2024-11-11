@@ -1,5 +1,12 @@
 # Changelog
 
+## [13.2.1](https://github.com/LazyVim/LazyVim/compare/v13.2.0...v13.2.1) (2024-11-11)
+
+
+### Bug Fixes
+
+* **lualine:** normalize paths before calculating pretty path. Fixes [#4763](https://github.com/LazyVim/LazyVim/issues/4763) ([ea266e7](https://github.com/LazyVim/LazyVim/commit/ea266e73265e32183acbec0bd39f8108e213770f))
+
 ## [13.2.0](https://github.com/LazyVim/LazyVim/compare/v13.1.0...v13.2.0) (2024-11-11)
 
 

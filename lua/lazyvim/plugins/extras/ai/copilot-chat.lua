@@ -27,6 +27,7 @@ return {
         show_help = true,
         question_header = "  " .. user .. " ",
         answer_header = "  Copilot ",
+        error_header = "  Error ",
         window = {
           width = 0.4,
         },
